@@ -49,13 +49,3 @@ order by 1
 
 
 
-
---select w.id [ID],
---       w.Name [Name],
---	   w.ShortName [Short Name]
---from warehouse w
-
---select top 10 * from Shelf 
-
-
-
